@@ -1,4 +1,4 @@
-# 📚 Alunos de Ciência da Computação - UFV
+# 📚 StackOverflow da Ciência da Computação - UFV
 
 Bem-vindo à organização de materiais do curso de **Ciência da Computação da UFV**!  
 
@@ -8,7 +8,7 @@ Aqui reunimos **slides, provas, resumos e outros conteúdos** das disciplinas do
 
 ## 📂 Estrutura Geral
 
-Cada repositório ou pasta corresponde a uma disciplina ou tipo de material:
+Cada repositório ou corresponde a uma disciplina.
 
 > Cada pasta contém subpastas para organizar melhor os arquivos.  
 
@@ -17,10 +17,9 @@ Cada repositório ou pasta corresponde a uma disciplina ou tipo de material:
 ## 🤝 Como Contribuir
 
 Se você tiver materiais que possam ajudar outros alunos:
+- TODO: definir melhor forma de contribuição  
 
-1. TODO: definir melhor forma de contribuição  
-
-> Todos os alunos são bem-vindos a contribuir e compartilhar conteúdos de estudo!  
+> Todos os alunos são bem-vindos a contribuir e compartilhar conteúdos de estudo! Não iremos informar quem disponibilizou o conteúdo.  
 
 ---
 
